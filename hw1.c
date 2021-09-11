@@ -5,9 +5,8 @@ int main()
 {
 	int num1, num2;
 
-	printf("First Num: ");
+	printf("두 정수를 입력하세요: ");
 	scanf("%d", &num1);
-	printf("Second Num: ");
 	scanf("%d", &num2);
 
 	printf("%d & %d = %d\n", num1, num2, num1 & num2);
