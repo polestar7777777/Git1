@@ -1,5 +1,0 @@
-cd C:\C prac
-cd Git1
-git add gitshort.txt
-git commit -m "Add Text File [gitshort.txt]
-git push
