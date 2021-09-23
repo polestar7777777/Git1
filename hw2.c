@@ -3,12 +3,12 @@
 
 int main()
 {
-	float dnum;
+	float fnum;
 	float res;
 	printf("Please enter kilometers: ");
-	scanf("%f", &dnum);
-	res = dnum / 1.609;
-	printf("%.1f km is equal to %.1f miles\n", dnum, res);
+	scanf("%f", &fnum);
+	res = fnum / 1.609;
+	printf("%.1f km is equal to %.1f miles\n", fnum, res);
 
 	return 0;
 }
